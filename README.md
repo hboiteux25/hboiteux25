@@ -4,11 +4,12 @@
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/hboiteux/)
 
+
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hboiteux25&show_icons=true&theme=compact)<br>
 
-## Skills 🤓
+## Skills 🚀
 
 <div style="display: inline_block"></br>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
