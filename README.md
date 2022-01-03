@@ -7,7 +7,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hboiteux25&show_icons=true&theme=compact)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hboiteux25&show_icons=true&theme=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hboiteux25)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ## Skills 🚀
 
